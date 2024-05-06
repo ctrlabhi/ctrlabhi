@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **mr.abhishekraaz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wJz4gRBjcbfC4lKjCl3uhL9xJUKI1Ngg/view?usp=sharing](https://drive.google.com/file/d/1wJz4gRBjcbfC4lKjCl3uhL9xJUKI1Ngg/view?usp=sharing)
-
 - ⚡ Fun fact **I'm Cool**
 
 <h3 align="left">Connect with me:</h3>
