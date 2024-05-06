@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctrlabhi&label=Profile%20views&color=0e75b6&style=flat" alt="ctrlabhi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ctrlabhi" target="blank"><img src="https://img.shields.io/twitter/follow/Abhishek?logo=twitter&style=for-the-badge" alt="Abhishek" /></a> </p>
+https://img.shields.io/twitter/follow/Abhishek?logo=Linkedin&label=Follow%20Me&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fctrlabhi
+
 
 - 🔭 I’m currently working on **Software Devlopment**
 
