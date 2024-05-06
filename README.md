@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [ctrlabhi.netlify.app](ctrlabhi.netlify.app)
-
 - 💬 Ask me about **Android, MERN**
 
 - 📫 How to reach me **mr.abhishekraaz@gmail.com**
