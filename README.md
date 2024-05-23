@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android, MERN**
 
-- 📫 How to reach me **mr.abhishekraaz@gmail.com**
+- 📫 How to reach me **ctrlabhishek@gmail.com**
 
 - ⚡ Fun fact **I'm Cool**
 
